@@ -1,6 +1,8 @@
+# Program: Birthday App
+# Author : David Velez
+# Date   : 06/20/18
+
 import datetime
-from datetime import date, timedelta
-from typing import Any, Union
 
 
 def print_header():
